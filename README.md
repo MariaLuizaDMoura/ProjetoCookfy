@@ -5,7 +5,6 @@
 <p align="center">Desafio Celero - Web Developer</p>
 
 
-
 # Table of Contents
 - [About](#-about)
 - [Technologies](#-technologies)
